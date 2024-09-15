@@ -12,3 +12,4 @@ const employees = [
 ];
 
 // Start coding here
+let 
